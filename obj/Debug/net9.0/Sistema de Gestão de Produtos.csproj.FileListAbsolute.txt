@@ -1,0 +1,14 @@
+C:\Users\natan\Desktop\Faculdade\Sistema de Gestão de Produtos\Sistema de Gestão de Produtos\bin\Debug\net9.0\Sistema de Gestão de Produtos.exe
+C:\Users\natan\Desktop\Faculdade\Sistema de Gestão de Produtos\Sistema de Gestão de Produtos\bin\Debug\net9.0\Sistema de Gestão de Produtos.deps.json
+C:\Users\natan\Desktop\Faculdade\Sistema de Gestão de Produtos\Sistema de Gestão de Produtos\bin\Debug\net9.0\Sistema de Gestão de Produtos.runtimeconfig.json
+C:\Users\natan\Desktop\Faculdade\Sistema de Gestão de Produtos\Sistema de Gestão de Produtos\bin\Debug\net9.0\Sistema de Gestão de Produtos.dll
+C:\Users\natan\Desktop\Faculdade\Sistema de Gestão de Produtos\Sistema de Gestão de Produtos\bin\Debug\net9.0\Sistema de Gestão de Produtos.pdb
+C:\Users\natan\Desktop\Faculdade\Sistema de Gestão de Produtos\Sistema de Gestão de Produtos\obj\Debug\net9.0\Sistema de Gestão de Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\Desktop\Faculdade\Sistema de Gestão de Produtos\Sistema de Gestão de Produtos\obj\Debug\net9.0\Sistema de Gestão de Produtos.AssemblyInfoInputs.cache
+C:\Users\natan\Desktop\Faculdade\Sistema de Gestão de Produtos\Sistema de Gestão de Produtos\obj\Debug\net9.0\Sistema de Gestão de Produtos.AssemblyInfo.cs
+C:\Users\natan\Desktop\Faculdade\Sistema de Gestão de Produtos\Sistema de Gestão de Produtos\obj\Debug\net9.0\Sistema de Gestão de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\natan\Desktop\Faculdade\Sistema de Gestão de Produtos\Sistema de Gestão de Produtos\obj\Debug\net9.0\Sistema de Gestão de Produtos.dll
+C:\Users\natan\Desktop\Faculdade\Sistema de Gestão de Produtos\Sistema de Gestão de Produtos\obj\Debug\net9.0\refint\Sistema de Gestão de Produtos.dll
+C:\Users\natan\Desktop\Faculdade\Sistema de Gestão de Produtos\Sistema de Gestão de Produtos\obj\Debug\net9.0\Sistema de Gestão de Produtos.pdb
+C:\Users\natan\Desktop\Faculdade\Sistema de Gestão de Produtos\Sistema de Gestão de Produtos\obj\Debug\net9.0\Sistema de Gestão de Produtos.genruntimeconfig.cache
+C:\Users\natan\Desktop\Faculdade\Sistema de Gestão de Produtos\Sistema de Gestão de Produtos\obj\Debug\net9.0\ref\Sistema de Gestão de Produtos.dll
